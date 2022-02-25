@@ -1,4 +1,4 @@
 Capitulo 1: Introduccion a Git.
 Capitulo 2: Flujo de trabajo basico.
 Capitulo 3: Gestion de ramas.
-Captitulo 4:[D[D[D[D[D[D[D[[[C[C[C[C[C[C[C[Citulo 4: Repositorios remotos.
+Captitulo 4:[D[D[D[D[D[D[D[[[C[C[C[C[C[C[C[Citulo 4: Repositorios remotos.Capitulo 5: Concepto avanzados
